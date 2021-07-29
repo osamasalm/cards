@@ -54,6 +54,7 @@ body {
     color: hsla(0, 0%, 100%, 0.75);
     margin-bottom: 90px;
     width: 220px;
+    line-height: 25px;
 }
 
 .card img {
